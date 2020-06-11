@@ -1,0 +1,2 @@
+rootProject.name='LfyMVP'
+include ':app'
